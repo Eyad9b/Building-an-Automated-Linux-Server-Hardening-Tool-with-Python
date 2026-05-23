@@ -1,6 +1,9 @@
 # Building-an-Automated-Linux-Server-Hardening-Tool-with-Python
 The main goal of this project is to automate Linux server security hardening and auditing tasks
-https://github.com/Eyad9b/Building-an-Automated-Linux-Server-Hardening-Tool-with-Python/blob/204b98b36abcfc508fed1774d917300b5ab0e50b/architecture%20diagram.png
+
+![Firewall Diagram][(https://raw.githubusercontent.com/username/repo/main/images/firewall.png](https://github.com/Eyad9b/Building-an-Automated-Linux-Server-Hardening-Tool-with-Python/blob/204b98b36abcfc508fed1774d917300b5ab0e50b/architecture%20diagram.png
+))
+
 # 🔒 Security Tool Features
 
 ## SSH Hardening
