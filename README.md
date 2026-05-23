@@ -27,7 +27,7 @@ Generates a full system report including:
 - Open network ports  
 - Authentication logs  
 - Active services  
-  
+  <img src="https://avatars.githubusercontent.com/u/42110363?v=4&size=64" alt="Eyad.ha">
 
 
 
