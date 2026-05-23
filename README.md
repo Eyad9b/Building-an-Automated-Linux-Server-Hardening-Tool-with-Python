@@ -1,8 +1,8 @@
 # Building-an-Automated-Linux-Server-Hardening-Tool-with-Python
 The main goal of this project is to automate Linux server security hardening and auditing tasks
+<img src="architecture diagram.png">
 
 
-![architecture diagram](architecture.png)
 
 # 🔒 Security Tool Features
 
